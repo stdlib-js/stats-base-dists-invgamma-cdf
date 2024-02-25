@@ -65,13 +65,13 @@ where `alpha > 0` is the shape parameter and `beta > 0` is the scale parameter. 
 ## Usage
 
 ```javascript
-import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-cdf@esm/index.mjs';
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-cdf@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-cdf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-cdf@v0.2.1-esm/index.mjs';
 ```
 
 #### cdf( x, alpha, beta )
@@ -153,7 +153,7 @@ y = mycdf( 8.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-cdf@esm/index.mjs';
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-cdf@v0.2.1-esm/index.mjs';
 
 var alpha;
 var beta;
