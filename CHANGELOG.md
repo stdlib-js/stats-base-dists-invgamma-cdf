@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-06-28)
+
+<section class="features">
+
+### Features
+
+-   [`b7f644e`](https://github.com/stdlib-js/stdlib/commit/b7f644ee905233220deec5cc7aa5d757391a3b4d) - add C implementation for inverse gamma CDF
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`b7f644e`](https://github.com/stdlib-js/stdlib/commit/b7f644ee905233220deec5cc7aa5d757391a3b4d) - **feat:** add C implementation for inverse gamma CDF _(by Philipp Burckhardt)_
 -   [`1db3cc5`](https://github.com/stdlib-js/stdlib/commit/1db3cc5291f4d08855501db089953299de98b8a4) - **bench:** refactor random number generation in `stats/base/dists/invgamma` [(#4974)](https://github.com/stdlib-js/stdlib/pull/4974) _(by Karan Anand)_
 
 </details>
@@ -24,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
